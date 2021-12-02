@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SebR97
+- 👀 I dream in code
+- 🌱 I’m currently a data scientist and part-time student completing my Masters in Actuarial Science and Quantitative Finance
+- 📫 How to reach me: sebastiano.rosolen@gmail.com
