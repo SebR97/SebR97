@@ -1,6 +1,6 @@
 ### Sebastiano Rosolen
 
-FDE / AI Engineer. I design and ship production systems that sit at the intersection of data platforms and applied AI — agentic workflows, RAG, and LLM applications that actually get used.
+FDE / AI Engineer. I design and ship production systems that sit at the intersection of data platforms and applied AI — agentic workflows, RAG, and LLM applications.
 
 Most of my work is in private repositories (enterprise and client systems). Happy to walk through architecture and decisions in conversation.
 
