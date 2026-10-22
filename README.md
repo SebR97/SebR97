@@ -5,6 +5,7 @@ FDE / AI Engineer. I design and ship production systems that sit at the intersec
 Most of my work is in private repositories (enterprise and client systems). Happy to walk through architecture and decisions in conversation.
 
 📍 Tbilisi 
+
 [LinkedIn](https://linkedin.com/in/your-linkedin)
 
 ---
