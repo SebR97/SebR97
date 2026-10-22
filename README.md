@@ -1,22 +1,20 @@
-### Hi, I'm Sebastiano 👋
+### Sebastiano Rosolen
 
-**FDE / AI Engineer** focused on taking ambiguous business problems from design to production AI systems.
+FDE / AI Engineer. I design and ship production systems that sit at the intersection of data platforms and applied AI — agentic workflows, RAG, and LLM applications that actually get used.
 
-I build and ship data platforms, agentic workflows, RAG systems, and production LLM applications — usually under real constraints (legacy systems, high reliability requirements, and tight delivery timelines).
+Most of my work is in private repositories (enterprise and client systems). Happy to walk through architecture and decisions in conversation.
 
-📍 Tbilisi, Georgia (EU citizen, open to relocation)  
-🔗 [LinkedIn](https://linkedin.com/in/your-linkedin) · sebastiano.rosolen@gmail.com
+📍 Tbilisi · EU citizen · Open to relocation  
+[LinkedIn](https://linkedin.com/in/your-linkedin)
 
 ---
 
-### What I work on
+### Focus areas
 
-- **Agentic systems & MCP** — custom agent platforms that automate engineering workflows (pipeline diagnosis, code fixes, PR generation)
-- **Production data platforms** — Airflow + dbt pipelines, multi-source integration, high reliability (99.8%+ uptime)
-- **Applied AI** — RAG, vector search, evaluation frameworks, human-in-the-loop agents
-- **Full delivery** — solution design → architecture trade-offs → implementation → deployment → iteration with stakeholders
-
-Most of my work lives in private repositories (enterprise client systems and internal platforms). Happy to walk through architecture, decisions, and results in interviews.
+- **Agentic systems & MCP** — platforms that automate engineering work (log analysis, failure diagnosis, code changes, PR generation)
+- **Data platforms** — Airflow + dbt, multi-source integration, reliability and data quality at scale
+- **Applied AI** — RAG, vector search, evaluation, human-in-the-loop agents
+- **Delivery** — taking ambiguous problems from design through production and iteration with stakeholders
 
 ---
 
@@ -24,36 +22,23 @@ Most of my work lives in private repositories (enterprise client systems and int
 
 | Project | Outcome |
 |---------|---------|
-| Agentic engineering platform (Claude Code + Airflow + MCP) | 90%+ reduction in pipeline development time, eliminated $35k+ annual tooling costs |
-| Multi-source data platform | 8 systems integrated, 100GB+ daily volume, sub-minute freshness, 99.8%+ uptime |
-| AI customer support system | <5s first response, automated 45%+ of tickets |
-| Production AI sales agent (voice + text) | 100+ daily conversations, 20+ qualified leads/day |
+| Agentic engineering platform (Claude Code + Airflow + MCP) | 90%+ faster pipeline development, $35k+ annual tooling cost removed |
+| Multi-source data platform | 8 systems, 100GB+ daily, sub-minute freshness, 99.8%+ uptime |
+| AI support system | <5s first response, 45%+ of tickets automated |
+| Production sales agent (voice + text) | 100+ daily conversations, 20+ qualified leads/day |
 
 ---
 
-### Tech I use regularly
+### Stack
 
-**Languages & Core**  
-`Python` · `SQL` · `React` · `TypeScript` · `REST APIs`
-
-**Data & Platforms**  
-`dbt` · `Apache Airflow` · `PostgreSQL` · `MSSQL` · `AWS` · `Azure` · `Docker`
-
-**AI / LLM**  
-`RAG` · `Vector search` · `Agentic workflows` · `Model Context Protocol (MCP)` · `Embeddings` · `Evaluation & prompt engineering` · `OpenAI` · `Claude`
+**Core** — Python, SQL, React, TypeScript, REST APIs  
+**Data** — dbt, Airflow, PostgreSQL, MSSQL, AWS, Azure, Docker  
+**AI** — RAG, vector search, agentic workflows, MCP, embeddings, evaluation, OpenAI, Claude
 
 ---
 
 ### Currently
 
-Head of AI @ Syspro UK — owning end-to-end delivery of AI and data engineering solutions.
+Head of AI at Syspro UK. Previously led data & AI engineering at EFT Corporation (payments infrastructure, government-scale systems, enterprise warehouses).
 
-Previously led data & AI engineering at EFT Corporation (payments, government-scale systems, enterprise data warehouses).
-
----
-
-### Let's talk
-
-I'm open to **Forward Deployed Engineer**, **AI Engineer**, and **Lead Data/AI** roles where I can own delivery from ambiguous problem to production system.
-
-Feel free to reach out on LinkedIn or email.
+Open to FDE, AI Engineer, and Lead Data/AI roles where ownership runs from problem definition to production system.
